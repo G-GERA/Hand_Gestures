@@ -1,0 +1,16 @@
+body
+{
+    background-color:rgb(247, 223, 92);
+}
+.gestures
+{
+    border-radius: 20px;
+    width:100px;
+    height:50px;
+    background-color: cadetblue;
+    font-weight: bold;
+}
+#down
+{
+    width:150;
+}
